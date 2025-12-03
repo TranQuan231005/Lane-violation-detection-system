@@ -79,6 +79,17 @@ Additional parameters: - Confidence threshold: **0.5** - Target
 violation class: **Motorcycle (ID = 3)**
 
 ------------------------------------------------------------------------
+## 4.1 Setup Environment (Google Colab)
+Go to https://colab.research.google.com/
+Select New Notebook
+
+### 4.1.1 Install Required Libraries
+
+### 4.1.2 Display Input, Output Video inside Colab
+
+VIDEO_PATH = '/content/video.mp4'
+OUTPUT_VIDEO = '/content/step2_output.mp4'
+OUTPUT_JSON = '/content/violations.json'
 
 # 5. Dataset
 
