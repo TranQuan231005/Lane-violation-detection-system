@@ -85,7 +85,14 @@ Select New Notebook
 
 ### 4.1.1 Install Required Libraries
 
+Paste this code into the block
+!pip install ultralytics
+!pip install opencv-python
+!pip install matplotlib
+
 ### 4.1.2 Display Input, Output Video inside Colab
+
+<img width="596" height="666" alt="image" src="https://github.com/user-attachments/assets/fd228e04-0da3-4f95-bb74-22855a611f0d" />
 
 VIDEO_PATH = '/content/video.mp4'
 OUTPUT_VIDEO = '/content/step2_output.mp4'
